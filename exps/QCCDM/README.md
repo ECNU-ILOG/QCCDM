@@ -1,4 +1,4 @@
-# Implemention of QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning (ECAI-2023)
+# Experiment of QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning (ECAI-2023)
 
 
 # Example
