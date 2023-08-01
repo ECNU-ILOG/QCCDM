@@ -12,7 +12,7 @@
 
 > ```
 > @inproceedings{liu2023qccdm,
->  author = {Shuo, Liu and MingJia, Li and Qian, Hong and Aimin, Zhou},
+>  author = {Shuo, Liu and MingJia, Li and Hong, Qian and Aimin, Zhou},
 >  booktitle = {Proceedings of the 26th European Conference on Artificial Intelligence},
 >  title = {QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning},
 >  year = {2023}
