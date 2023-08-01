@@ -1,7 +1,14 @@
 # CDM_ILOG
 > This is a comprehensive repository launched by ECNU-ILOG-Lab, specializing in Cognitive Diagnosis Models.
 
+We support not only QCCDM but also other baselines which is put foward in method 文件夹.
+
+# Experiment
+
+We support not only QCCDM but also other baselines
+
 # Paper
+
 > QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning (ECAI-2023)
 
 
