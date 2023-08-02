@@ -1,7 +1,7 @@
 # CDM_ILOG
 > This is a comprehensive repository launched by ECNU-ILOG-Lab, specializing in Cognitive Diagnosis Models.
 
-We support not only QCCDM but also other baselines which is put forward in method 文件夹.
+We support not only QCCDM but also other baselines which is put forward in method directory.
 
 # Experiment
 
