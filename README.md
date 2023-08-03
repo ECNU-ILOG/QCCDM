@@ -1,4 +1,4 @@
-# CDM_ILOG
+# :sparkles: :sparkles: CDM_ILOG :sparkles::sparkles:
 
 :smile_cat: Welcome to **CDM_ILOG**, this is a comprehensive repository specializing in ***Cognitive Diagnosis Models*** [1]. 
 
@@ -29,7 +29,7 @@ wandb==0.15.2
 
 ------
 
-# Experiment
+# Experiment :clap:
 
 <u>We utilize **wandb**, a practical and effective package for visualizing our results. However, if you prefer not to use it, it can be easily disabled.</u> https://wandb.ai/ :scroll:
 
@@ -41,7 +41,7 @@ We provide comprehensive instructions on how to run QCCDM in the "exps/QCCDM" di
 
 ------
 
-# The File Tree
+# The File Tree :file_folder:
 
 The file structure of this repository is as follows, and we will introduce each part one by one:
 
@@ -153,7 +153,7 @@ We provide **three metrics** to evaluate the diagnostic results.
 
 ------
 
-# Our Paper
+# Our Paper :thought_balloon:
 
 Shuo Liu, Hong Qian, Mingjia Li, Aimin Zhou "QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning." In Proceedings of the 26th European Conference on Artificial Intelligence, 2023.
 
@@ -169,7 +169,7 @@ Shuo Liu, Hong Qian, Mingjia Li, Aimin Zhou "QCCDM: A Q-Augmented Causal Cogniti
 > }
 > ```
 
-# Reference
+# Reference :raised_hands:
 
 [1]. Qi Liu. 2021. Towards a New Generation of Cognitive Diagnosis. In Proceedings of 30th International Joint Conference on Artificial Intelligence.
 Montreal, Canada, 4961–4964
