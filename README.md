@@ -40,6 +40,8 @@ We provide comprehensive instructions on how to run QCCDM in the "exps/QCCDM" di
 
 # The File Tree
 
+The file structure of this repository is as follows, and we will introduce each part one by one:
+
 >
 >     .
 >     │  .gitattributes
@@ -111,7 +113,31 @@ We provide comprehensive instructions on how to run QCCDM in the "exps/QCCDM" di
 >                utils.py
 >     
 
+## Data
 
+Here, we include Junyi, a real-world dataset collected from Junyi Academy that contains logs of students practicing math online. 
+
+The data cleaning process was carried out as part of the HIERCDF project. For more information, you can visit the project's repository at https://github.com/CSLiJT/HCD-code.
+
+- data_analysis.py: We provide some functions to analyze the response logs (i.e., average correct rate, sparsity)
+- data_params_dict.py: This file stores a dictionary which allows you to retrieve basic attributes of the datasets, such as the number of students.
+- ground_truth.xlsx: This Excel file contains the dependencies (DAG) among the knowledge concepts in the **matrix form**.
+- junyihier.csv This file contains the dependencies (DAG) among the knowledge concepts in the **edge form**.
+- junyiTotalData.csv: This file contains the total response logs in junyi.
+- q.csv: This file contains the **Q-matrix** in junyi.
+- train_0.8_0.2.csv and test_0.8_0.2.csv: These files are sourced from https://github.com/CSLiJT/HCD-code. We employ them to generate the "junyiTotalData.csv" file.
+
+For more datasets, please visit https://github.com/bigdata-ustc/EduData to access a wider range of educational data resources.
+
+## exps
+
+We provide the execution entry for QCCDM experiments, along with shell script files for batch processing. For more details, please refer to the README file in the "exps/QCCDM" directory.
+
+## metrics
+
+We provide three metrics to evaluate the diagnostic results.
+
+- DOA (Degree of Agreement): A interpretable metric which is utilized in current CDMs.
 
 
 
