@@ -14,7 +14,7 @@ This repository has implementation of QCCDM: A Q-Augmented Causal Cognitive Diag
 
 ------
 
-# Requirements
+# Requirements:heavy_exclamation_mark:
 
 ```python
 EduCDM==0.0.13
