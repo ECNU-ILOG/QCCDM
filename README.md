@@ -143,7 +143,12 @@ We provide **three metrics** to evaluate the diagnostic results.
 - MAD (Mean Average Distance): This metric is used to measure the distance between the mastery levels of different students, and is often employed to examine whether the embedding result has an **over-smoothing** issue.
 - MLS (Mastery Level Stability): This metric is used to assess the **stability** of diagnostic results under different seed settings.
 
+## runners
 
+- datautils.py: This file contains the dataloader for student performance prediction tasks.
+- utils.py: This file contains various useful utility functions.
+- QCCDM/cdm_runners.py: This file contains runner for QCCDM.
+- QCCDM/utilis.py: This file contains useful utility functions for QCCDM.
 
 ------
 
