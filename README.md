@@ -5,6 +5,8 @@
 
 ## QCCDM-ECAI2023
 
+We provide `QCCDM-ECAI23.pdf` and  `Appendix.pdf` in "papers" directory.
+
 This repository has implementation of QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning (**ECAI2023**) which lies in "method" directory.  If you're interested, please navigate to the method/QCCDM directory for more information.
 
 > cd method/QCCDM
@@ -135,9 +137,11 @@ We provide the execution entry for QCCDM experiments, along with shell script fi
 
 ## metrics
 
-We provide three metrics to evaluate the diagnostic results.
+We provide **three metrics** to evaluate the diagnostic results.
 
-- DOA (Degree of Agreement): A interpretable metric which is utilized in current CDMs.
+- DOA (Degree of Agreement): A interpretable metric which is utilized in current CDMs. Since there is no existing code available online, **we implemented it ourselves using numpy**.
+- MAD (Mean Average Distance): This metric is used to measure the distance between the mastery levels of different students, and is often employed to examine whether the embedding result has an **over-smoothing** issue.
+- MLS (Mastery Level Stability): This metric is used to assess the **stability** of diagnostic results under different seed settings.
 
 
 
