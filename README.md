@@ -24,11 +24,17 @@ wandb==0.15.2
 
 # Experiment
 
+<u>We utilize **wandb**, a practical and effective package for visualizing our results. However, if you prefer not to use it, it can be easily disabled.</u> https://wandb.ai/
+
+
+
 ## QCCDM
 
 We provide comprehensive instructions on how to run QCCDM in the "exps/QCCDM" directory. If you're interested, please navigate to the exps/QCCDM directory for more information.
 
 > cd exps/QCCDM
+
+
 
 # The File Tree
 
