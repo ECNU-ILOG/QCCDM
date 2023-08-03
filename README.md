@@ -3,7 +3,7 @@
 
 ## QCCDM-ECAI2023
 
-This repository has implementation of QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning (**ECAI2023**) which lies in "method" directory.  If you're interested, please navigate to the exps/QCCDM directory for more information.
+This repository has implementation of QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning (**ECAI2023**) which lies in "method" directory.  If you're interested, please navigate to the method/QCCDM directory for more information.
 
 > cd method/QCCDM
 
