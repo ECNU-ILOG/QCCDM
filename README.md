@@ -1,6 +1,6 @@
 # CDM_ILOG
 
-:smile_cat: Welcome to CDM_ILOG, this is a comprehensive repository specializing in Cognitive Diagnosis Models.
+:smile_cat: Welcome to **CDM_ILOG**, this is a comprehensive repository specializing in ***Cognitive Diagnosis Models*.**
 
 ------
 
@@ -153,7 +153,7 @@ We provide **three metrics** to evaluate the diagnostic results.
 
 ------
 
-# Reference
+# Our Paper
 
 Shuo Liu, Hong Qian, Mingjia Li, Aimin Zhou "QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning." In Proceedings of the 26th European Conference on Artificial Intelligence, 2023.
 
@@ -168,3 +168,7 @@ Shuo Liu, Hong Qian, Mingjia Li, Aimin Zhou "QCCDM: A Q-Augmented Causal Cogniti
 > address={Kraków, Poland}
 > }
 > ```
+
+# Reference
+
+[1]: https://dblp.org/search?q=Towards+a+New+Generation+of+Cognitive+Diagnosis	"Qi Liu. 2021. Towards a New Generation of Cognitive Diagnosis. In Proceedings of 30th International Joint Conference on Artificial Intelligence."
