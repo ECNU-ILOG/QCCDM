@@ -1,6 +1,6 @@
 # CDM_ILOG
 
-:smile_cat: Welcome to **CDM_ILOG**, this is a comprehensive repository specializing in ***Cognitive Diagnosis Models*** [1].
+:smile_cat: Welcome to **CDM_ILOG**, this is a comprehensive repository specializing in ***Cognitive Diagnosis Models*** [1]. 
 
 ------
 
@@ -31,7 +31,7 @@ wandb==0.15.2
 
 # Experiment
 
-<u>We utilize **wandb**, a practical and effective package for visualizing our results. However, if you prefer not to use it, it can be easily disabled.</u> https://wandb.ai/
+<u>We utilize **wandb**, a practical and effective package for visualizing our results. However, if you prefer not to use it, it can be easily disabled.</u> https://wandb.ai/ :scroll:
 
 ## QCCDM
 
