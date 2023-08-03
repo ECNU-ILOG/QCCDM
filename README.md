@@ -1,5 +1,6 @@
 # CDM_ILOG
-> This is a comprehensive repository specializing in Cognitive Diagnosis Models.
+
+:smile_cat: Welcome to CDM_ILOG, this is a comprehensive repository specializing in Cognitive Diagnosis Models.
 
 ------
 
