@@ -104,6 +104,3 @@ def get_correlate_matrix(datatype: str):
     with open('../data/{}/C.pkl'.format(datatype), 'wb') as f:
         pickle.dump(c_matrix, f)
     return c_matrix
-
-
-print(get_correlate_matrix('Math1')[0, :])
