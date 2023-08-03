@@ -6,15 +6,15 @@ We support QCCDM which is proposed in the "method" directory.
 # Experiment
 
 > D:.
-├─data
-│  ├─junyi
-├─exps
-│  └─QCCDM
-├─method
-│  ├─QCCDM
-├─metrics
-├─plot
-└─runners
+>├─data
+>│  ├─junyi
+>├─exps
+>│  └─QCCDM
+>├─method
+>│  ├─QCCDM
+>├─metrics
+>├─plot
+>└─runners
     ├─commonutils
     └─QCCDM
 
@@ -26,7 +26,7 @@ Shuo, Liu; Hong, Qian; Mingjia Li; and  Aimin Zhou "QCCDM: A Q-Augmented Causal 
 ## Bibtex
 
 > ```
-> @inproceedings{liu2023qccdm,
+> @inproceedings{liu2023ecai,
 >  author = {Shuo, Liu and Hong, Qian and MingJia, Li and Aimin, Zhou},
 >  booktitle = {Proceedings of the 26th European Conference on Artificial Intelligence},
 >  title = {QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning},
