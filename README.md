@@ -116,7 +116,7 @@ The file structure of this repository is as follows, and we will introduce each 
 >                utils.py
 >     
 
-## Data
+## Data :whale:
 
 Here, we include Junyi, a real-world dataset collected from Junyi Academy that contains logs of students practicing math online. 
 
@@ -132,11 +132,11 @@ The data cleaning process was carried out as part of the HIERCDF project. For mo
 
 For more datasets, please visit https://github.com/bigdata-ustc/EduData to access a wider range of educational data resources.
 
-## exps
+## exps :grey_exclamation:
 
 We provide the execution entry for QCCDM experiments, along with shell script files for batch processing. For more details, please refer to the README file in the "exps/QCCDM" directory.
 
-## metrics
+## metrics :dart:
 
 We provide **three metrics** to evaluate the diagnostic results.
 
@@ -144,7 +144,7 @@ We provide **three metrics** to evaluate the diagnostic results.
 - MAD (Mean Average Distance): This metric is used to measure the distance between the mastery levels of different students, and is often employed to examine whether the embedding result has an **over-smoothing** issue.
 - MLS (Mastery Level Stability): This metric is used to assess the **stability** of diagnostic results under different seed settings.
 
-## runners
+## runners :beginner:
 
 - datautils.py: This file contains the dataloader for student performance prediction tasks.
 - utils.py: This file contains various useful utility functions.
