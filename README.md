@@ -171,5 +171,6 @@ Shuo Liu, Hong Qian, Mingjia Li, Aimin Zhou "QCCDM: A Q-Augmented Causal Cogniti
 
 # Reference
 
-[^1]: Qi Liu. 2021. Towards a New Generation of Cognitive Diagnosis. In Proceedings of 30th International Joint Conference on Artificial Intelligence. Montreal, Canada, 4961–4964
+[1]. Qi Liu. 2021. Towards a New Generation of Cognitive Diagnosis. In Proceedings of 30th International Joint Conference on Artificial Intelligence.
+Montreal, Canada, 4961–4964
 
