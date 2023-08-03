@@ -1,6 +1,6 @@
 # CDM_ILOG
 
-:smile_cat: Welcome to **CDM_ILOG**, this is a comprehensive repository specializing in ***Cognitive Diagnosis Models*.**
+:smile_cat: Welcome to **CDM_ILOG**, this is a comprehensive repository specializing in ***Cognitive Diagnosis Models*** [1].
 
 ------
 
@@ -171,4 +171,5 @@ Shuo Liu, Hong Qian, Mingjia Li, Aimin Zhou "QCCDM: A Q-Augmented Causal Cogniti
 
 # Reference
 
-[1]: https://dblp.org/search?q=Towards+a+New+Generation+of+Cognitive+Diagnosis	"Qi Liu. 2021. Towards a New Generation of Cognitive Diagnosis. In Proceedings of 30th International Joint Conference on Artificial Intelligence."
+[^1]: Qi Liu. 2021. Towards a New Generation of Cognitive Diagnosis. In Proceedings of 30th International Joint Conference on Artificial Intelligence. Montreal, Canada, 4961–4964
+
