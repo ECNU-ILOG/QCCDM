@@ -4,4 +4,5 @@ data_params = {
         'prob_num': 734,
         'know_num': 734,
         'batch_size': 1024
+    }
 }

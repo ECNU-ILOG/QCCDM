@@ -3,6 +3,19 @@
 
 We support our QCCDM which lies in the "method" directory.
 
+# Requirements
+
+```python
+EduCDM==0.0.13
+joblib==1.2.0
+numpy==1.23.5
+pandas==1.5.3
+scikit_learn==1.2.2
+torch==1.13.1+cu117
+tqdm==4.65.0
+wandb==0.15.2
+```
+
 # Experiment
 
 
