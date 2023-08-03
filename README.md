@@ -1,7 +1,13 @@
 # CDM_ILOG
 > This is a comprehensive repository specializing in Cognitive Diagnosis Models.
 
-We support our QCCDM which lies in the "method" directory.
+## QCCDM
+
+This repository has implementation of QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning which lies in "method" directory.  If you're interested, please navigate to the exps/QCCDM directory for more information.
+
+> cd method/QCCDM
+
+
 
 # Requirements
 
@@ -18,9 +24,11 @@ wandb==0.15.2
 
 # Experiment
 
+## QCCDM
 
+We provide comprehensive instructions on how to run QCCDM in the "exps/QCCDM" directory. If you're interested, please navigate to the exps/QCCDM directory for more information.
 
-
+> cd exps/QCCDM
 
 # The File Tree
 
