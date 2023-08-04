@@ -128,7 +128,7 @@ The data cleaning process was carried out as part of the HIERCDF project. For mo
 - ground_truth.xlsx: This Excel file contains the dependencies (DAG) among the knowledge concepts in the **matrix form**.
 - junyihier.csv This file contains the dependencies (DAG) among the knowledge concepts in the **edge form**.
 - junyiTotalData.csv: This file contains the total response logs in Junyi.
-- q.csv: This file contains the **Q-matrix** in junyi.
+- q.csv: This file contains the **Q-matrix** in Junyi.
 - train_0.8_0.2.csv and test_0.8_0.2.csv: These files are sourced from https://github.com/CSLiJT/HCD-code. We employ them to generate the "junyiTotalData.csv" file.
 
 For more datasets, please visit https://github.com/bigdata-ustc/EduData to access a wider range of educational data resources.
