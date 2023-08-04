@@ -33,6 +33,13 @@ wandb==0.15.2
 
 <u>We utilize **wandb**, a practical and effective package for visualizing our results. However, if you prefer not to use it, it can be easily disabled.</u> https://wandb.ai/ :scroll:
 
+:exclamation: **When you execute QCCDM, it will automatically generate a 'logs' folder for you within 'exp/QCCDM'. This folder will store the diagnosis results in 'pkl' format.**
+
+```
+The diagnosis result is a list with a length equal to the number of epochs. 
+Each individual diagnosis result within the list has dimensions of #students x #knowledge concepts.
+```
+
 ## QCCDM
 
 We provide comprehensive instructions on how to run QCCDM in the "exps/QCCDM" directory. If you're interested, please navigate to the exps/QCCDM directory for more information.
