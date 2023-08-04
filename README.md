@@ -1,6 +1,6 @@
 # :sparkles: :sparkles: CDM_ILOG :sparkles::sparkles:
 
-:smile_cat: Welcome to **CDM_ILOG**, this is a comprehensive repository specializing in ***Cognitive Diagnosis Models*** [1]. 
+:smile_cat: Welcome to **CDM_ILOG**, this is a comprehensive repository specializing in ***Cognitive Diagnosis Models*** [1].
 
 ------
 
@@ -63,10 +63,7 @@ The file structure of this repository is as follows, and we will introduce each 
 >     │         junyiTotalData.csv
 >     │         q.csv
 >     │         test_0.8_0.2.csv
->     │         train_0.8_0.2.csv
->     │  
->     │  
->     │          
+>     │         train_0.8_0.2.csv       
 >     │
 >     ├─exps
 >     │  └─QCCDM
@@ -80,36 +77,18 @@ The file structure of this repository is as follows, and we will introduce each 
 >     │  │
 >     │  ├─QCCDM
 >     │        qccdm.py
->     │        __init__.py
->     │  
->     │  
->     │  
->     │  
->     │  
->     │          
+>     │        __init__.py        
 >     │
 >     ├─metrics
 >     │     DOA.py
 >     │     MAD.py
->     │     MLS.py
->     │  
->     │  
->     │          
->     │
->     ├─papers
->     │  └─QCCDM
->     │          Appendix.pdf
->     │          QCCDM_ECAI23.pdf
+>     │     MLS.py     
 >     │
 >     ├─plot
 >     └─runners
 >         ├─commonutils
 >         │     datautils.py
->         │     util.py
->         │  
->         │  
->         │         
->         │          
+>         │     util.py    
 >         │
 >         └─QCCDM
 >                cdm_runners.py
