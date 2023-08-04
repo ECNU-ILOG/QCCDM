@@ -1,6 +1,6 @@
-# :sparkles: :sparkles: <u>CDM_ILOG</u> :sparkles::sparkles:
+# :sparkles: :sparkles: <u>QCCDM</u> :sparkles::sparkles:
 
-:smile_cat: Welcome to **QCCDM**, this is a comprehensive repository specializing in ***A Q-Augmented Causal Cognitive Diagnosis Model*** [1].
+:smile_cat: Welcome to **QCCDM**, this is a comprehensive repository specializing in ***a Q-Augmented Causal Cognitive Diagnosis Model***.
 
 ------
 
