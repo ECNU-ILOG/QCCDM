@@ -135,7 +135,7 @@ For more datasets, please visit https://github.com/bigdata-ustc/EduData to acces
 
 ## exps :grey_exclamation:
 
-We provide the execution entry for QCCDM experiments, along with shell script files for batch processing. For more details, please refer to the README file in the "exps/QCCDM" directory.
+We provide the execution entry for QCCDM experiments, along with shell script files for batch processing. For more details, please refer to the README file in the ***<u>"exps/QCCDM"</u>*** directory.
 
 ## metrics :dart:
 
