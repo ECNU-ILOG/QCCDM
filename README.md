@@ -42,7 +42,7 @@ Each individual diagnosis result within the list has dimensions of #students x #
 
 ## QCCDM
 
-We provide comprehensive instructions on how to run QCCDM in the "exps/QCCDM" directory. If you're interested, please navigate to the exps/QCCDM directory for more information.
+We provide comprehensive instructions on how to run QCCDM in the ***<u>"exps/QCCDM"</u>*** directory. If you're interested, please navigate to the exps/QCCDM directory for more information.
 
 ```
 cd exps/QCCDM
