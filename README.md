@@ -154,7 +154,7 @@ We provide **three metrics** to evaluate the diagnostic results.
 
 ------
 
-# Our Paper :thought_balloon:
+# Reference :thought_balloon:
 
 Shuo Liu, Hong Qian, Mingjia Li, Aimin Zhou "QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning." In Proceedings of the 26th European Conference on Artificial Intelligence (ECAI), 2023.
 
@@ -169,8 +169,3 @@ year = {2023},
 address={Kraków, Poland}
 }
 ```
-
-# Reference :raised_hands:
-
-
-
