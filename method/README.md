@@ -6,7 +6,7 @@
 
 # Framework
 
-![framework](D:\Cs\CDM_ILOG\method\QCCDM\picture\framework.jpg)
+![framework](./QCCDM/picture/framework.jpg)
 
 ## Reference
 
