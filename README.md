@@ -134,7 +134,7 @@ We provide the execution entry for QCCDM experiments, along with shell script fi
 
 We provide **three metrics** to evaluate the diagnostic results.
 
-- DOA (Degree of Agreement): A interpretable metric which is utilized in current CDMs. Since there is no existing code available online, **we implemented it ourselves using numpy**.
+- DOA (Degree of Agreement): A interpretable metric which is utilized in current CDMs. Since there is no existing code available online, **we implement it ourselves using numpy**.
 - MAD (Mean Average Distance): This metric is used to measure the distance between the mastery levels of different students, and is often employed to examine whether the embedding result has an **over-smoothing** issue.
 - MLS (Mastery Level Stability): This metric is used to assess the **stability** of diagnostic results under different seed settings.
 
