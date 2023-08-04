@@ -1,6 +1,6 @@
 # :sparkles: :sparkles: <u>CDM_ILOG</u> :sparkles::sparkles:
 
-:smile_cat: Welcome to **CDM_ILOG**, this is a comprehensive repository specializing in ***Cognitive Diagnosis Models*** [1].
+:smile_cat: Welcome to **QCCDM**, this is a comprehensive repository specializing in ***A Q-Augmented Causal Cognitive Diagnosis Model*** [1].
 
 ------
 
@@ -172,6 +172,5 @@ address={Kraków, Poland}
 
 # Reference :raised_hands:
 
-[1]. Qi Liu. 2021. Towards a New Generation of Cognitive Diagnosis. In Proceedings of 30th International Joint Conference on Artificial Intelligence.
-Montreal, Canada, 4961–4964
+
 
