@@ -46,52 +46,66 @@ We provide comprehensive instructions on how to run QCCDM in the "exps/QCCDM" di
 The file structure of this repository is as follows, and we will introduce each part one by one:
 
 >.
->     │  .gitattributes
->     │  .gitignore
->     │  LICENSE
->     │  README.md
->     │  requirements.txt
->     │
->     ├─data
->     │  │  data_analysis.py
->     │  │  data_params_dict.py
->     │  │
->     │  ├─junyi
->     │         ground_truth.xlsx
->     │         junyihier.csv
->     │         junyiTotalData.csv
->     │         q.csv
->     │         test_0.8_0.2.csv
->     │         train_0.8_0.2.csv       
->     │
->     ├─exps
->     │  └─QCCDM
->     │          exp-cdm-1.sh
->     │          exp-cdm.sh
->     │          exp.py
->     │          README.md
->     │
->     ├─method
->     │  │  __init__.py
->     │  │
->     │  ├─QCCDM
->     │        qccdm.py
->     │        __init__.py        
->     │
->     ├─metrics
->     │     DOA.py
->     │     MAD.py
->     │     MLS.py     
->     │
->     ├─plot
->     └─runners
->         ├─commonutils
->         │     datautils.py
->         │     util.py    
->         │
->         └─QCCDM
->                cdm_runners.py
->                utils.py
+>
+>│  .gitattributes
+>│  .gitignore
+>│  LICENSE
+>│  README.md
+>│  requirements.txt
+>│
+>├─data
+>│  │  data_analysis.py
+>│  │  data_params_dict.py
+>│  │
+>│  ├─junyi
+>│  │      ground_truth.xlsx
+>│  │      junyihier.csv
+>│  │      junyiTotalData.csv
+>│  │      q.csv
+>│  │      test_0.8_0.2.csv
+>│  │      train_0.8_0.2.csv
+>│  │
+>│  └─__pycache__
+>│          data_params_dict.cpython-39.pyc
+>│
+>├─exps
+>│  └─QCCDM
+>│          exp-cdm-1.sh
+>│          exp-cdm.sh
+>│          exp.py
+>│          README.md
+>│
+>├─method
+>│  │  README.md
+>│  │  __init__.py
+>│  │
+>│  ├─QCCDM
+>│  │  │  qccdm.py
+>│  │  │  __init__.py
+>│  │  │
+>│  │  ├─papers
+>│  │  │  └─QCCDM
+>│  │  │          Appendix.pdf
+>│  │  │          QCCDM_ECAI23.pdf
+>│  │  │
+>│  │  ├─picture
+>│  │  │      framework.jpg
+>│
+>├─metrics
+>│  │  DOA.py
+>│  │  MAD.py
+>│  │  MLS.py
+>│         
+>│
+>├─plot
+>└─runners
+>    ├─commonutils
+>    │  │  datautils.py
+>    │  │  util.py
+>    │
+>    └─QCCDM
+>        │  cdm_runners.py
+>        │  utils.py
 
 ## Data :whale:
 
