@@ -37,7 +37,9 @@ wandb==0.15.2
 
 We provide comprehensive instructions on how to run QCCDM in the "exps/QCCDM" directory. If you're interested, please navigate to the exps/QCCDM directory for more information.
 
-> cd exps/QCCDM
+```
+cd exps/QCCDM
+```
 
 ------
 
