@@ -1,14 +1,14 @@
-# QCCDM-ECAI2023
+# QCCDM-ECAI2023 
 
 > This is a implementation of QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning
 
 ------
 
-# Framework
+# Framework :factory:
 
 ![framework](./QCCDM/picture/framework.jpg)
 
-## Reference
+## Reference :registered:
 
 ```
 @inproceedings{liu2023ecai,

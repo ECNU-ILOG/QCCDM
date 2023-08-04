@@ -1,14 +1,14 @@
-# :sparkles: :sparkles: CDM_ILOG :sparkles::sparkles:
+# :sparkles: :sparkles: <u>CDM_ILOG</u> :sparkles::sparkles:
 
 :smile_cat: Welcome to **CDM_ILOG**, this is a comprehensive repository specializing in ***Cognitive Diagnosis Models*** [1].
 
 ------
 
-## QCCDM-ECAI2023
+## QCCDM-*ECAI2023*
 
-We provide `QCCDM-ECAI23.pdf` and  `Appendix.pdf` in "papers" directory.
+We provide `QCCDM-ECAI23.pdf` and  `Appendix.pdf` in "*<u>**method/QCCDM/papers**</u>*" directory.
 
-This repository has implementation of QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning (**ECAI2023**) which lies in "method" directory.  If you're interested, please navigate to the method/QCCDM directory for more information.
+This repository has implementation of QCCDM: A Q-Augmented Causal Cognitive Diagnosis Model for Student Learning (**ECAI2023**) which lies in *<u>**"method"**</u>* directory.  If you're interested, please navigate to the method/QCCDM directory for more information.
 
 > cd method/QCCDM
 
@@ -45,8 +45,7 @@ We provide comprehensive instructions on how to run QCCDM in the "exps/QCCDM" di
 
 The file structure of this repository is as follows, and we will introduce each part one by one:
 
->
->     .
+>.
 >     │  .gitattributes
 >     │  .gitignore
 >     │  LICENSE
@@ -93,7 +92,6 @@ The file structure of this repository is as follows, and we will introduce each 
 >         └─QCCDM
 >                cdm_runners.py
 >                utils.py
->     
 
 ## Data :whale:
 
