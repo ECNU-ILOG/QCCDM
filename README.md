@@ -127,7 +127,7 @@ The data cleaning process was carried out as part of the HIERCDF project. For mo
 - data_params_dict.py: This file stores a dictionary which allows you to retrieve basic attributes of the datasets, such as the number of students.
 - ground_truth.xlsx: This Excel file contains the dependencies (DAG) among the knowledge concepts in the **matrix form**.
 - junyihier.csv This file contains the dependencies (DAG) among the knowledge concepts in the **edge form**.
-- junyiTotalData.csv: This file contains the total response logs in junyi.
+- junyiTotalData.csv: This file contains the total response logs in Junyi.
 - q.csv: This file contains the **Q-matrix** in junyi.
 - train_0.8_0.2.csv and test_0.8_0.2.csv: These files are sourced from https://github.com/CSLiJT/HCD-code. We employ them to generate the "junyiTotalData.csv" file.
 
